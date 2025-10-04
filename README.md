@@ -58,3 +58,7 @@ output_directory/
 
 - Ensure `ipsw` is properly installed and accessible
 - Verify the IPA file is not corrupted
+
+## Disclaimer
+
+This tool is for educational and authorized penetration testing purposes only. Use responsibly and only on applications you own or have explicit permission to test.
