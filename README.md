@@ -13,8 +13,7 @@ A lightweight tool for analyzing and decompiling iOS application packages (IPA f
 
 - `ipsw` tool installed and available in PATH
 - `unzip` utility
-- Bash shell
-
+  
 ## Installation
 
 1. Clone or download the script
